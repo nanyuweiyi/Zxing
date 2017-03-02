@@ -29,6 +29,9 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.util.List;
 
+/**
+ * 该工程配置了动态获取权限
+ */
 public class MainActivity extends Activity implements OnClickListener{
 
 	private static final int PHOTO_PIC = 4;//扫描二维码
