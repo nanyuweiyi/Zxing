@@ -43,6 +43,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="识别二维码(使用摄像头)" />
+
     <TextView
         android:id="@+id/tvshow"
         android:layout_width="match_parent"
